@@ -3,85 +3,85 @@
         {
             "name": "motor depot",
             "url": "#client-md",
-            "logo": "/assets/s3/company-logos/motor-depot.png",
-            "screenshot": "/assets/s3/company-showcase/motor-depot.jpg",
+            "logo": "/assets/s3/logos/motor-depot.png",
+            "screenshot": "/assets/s3/showcase/motor-depot.jpg",
             "description": "Fast moving, high growth and always pushing to be at the cutting edge of technology. Motor Depot are trend setters and lead the way in digital."
         },
         {
             "name": "fow",
             "url": "#client-fow",
-            "logo": "/assets/s3/company-logos/fow.svg",
-            "screenshot": "/assets/s3/company-showcase/fow.jpg",
+            "logo": "/assets/s3/logos/fow.svg",
+            "screenshot": "/assets/s3/showcase/fow.jpg",
             "description": "Always pushing boundaries and looking to innovate, Nathan Quayle, FoW Marketing Manager, worked closely with our UX team to deliver a unique and revolutionary new way to search for cars."
         },
         {
             "name": "motor-range",
             "url": "#client-motor-range",
-            "logo": "/assets/s3/company-logos/motor-range.png",
-            "screenshot": "/assets/s3/company-showcase/motor-range.jpg",
+            "logo": "/assets/s3/logos/motor-range.png",
+            "screenshot": "/assets/s3/showcase/motor-range.jpg",
             "description": "Another long standing customer of Nexus Point. Having recently moved premises, Motor Range have upgraded their website to the latest version of Apex and we have seen 60% year on year website traffic through our strategic SEO, PPC and social media campaigns"
         },
         {
             "name": "swansway",
             "url": "#client-swansway",
-            "logo": "/assets/s3/company-logos/swansway.png",
-            "screenshot": "/assets/s3/company-showcase/swansway.jpg",
+            "logo": "/assets/s3/logos/swansway.png",
+            "screenshot": "/assets/s3/showcase/swansway.jpg",
             "description": "We love building solutions for the automotive sector and when Swansway approached us to build a reporting tool we jumped at the opportunity. Since then the system has grown, used by almost 1000 staff and provides real time analysis of the business second to no other system we are aware of."
         },
         {
             "name": "oakmere",
             "url": "#client-oakmere",
-            "logo": "/assets/s3/company-logos/oakmere.png",
-            "screenshot": "/assets/s3/company-showcase/oakmere.jpg",
+            "logo": "/assets/s3/logos/oakmere.png",
+            "screenshot": "/assets/s3/showcase/oakmere.jpg",
             "description": "If you haven’t met true petrol heads yet, take a trip to Oakmere. Probably the most passionate, sometimes crazy and always fun bunch of people we have ever had the pleasure to meet and work with."
         },
         {
             "name": "david-hayton",
             "url": "#client-david-hayton",
-            "logo": "/assets/s3/company-logos/david-hayton.png",
-            "screenshot": "/assets/s3/company-showcase/david-hayton.jpg",
+            "logo": "/assets/s3/logos/david-hayton.png",
+            "screenshot": "/assets/s3/showcase/david-hayton.jpg",
             "description": "A responsive website and engaging social media campiagns help David Hayton showcase their exciting mix of manufacturers and exotic super cars."
         },
         {
             "name": "mitchell-group",
             "url": "#client-mitchell-group",
-            "logo": "/assets/s3/company-logos/mitchell-group.png",
-            "screenshot": "/assets/s3/company-showcase/mitchell-group.jpg",
+            "logo": "/assets/s3/logos/mitchell-group.png",
+            "screenshot": "/assets/s3/showcase/mitchell-group.jpg",
             "description": "Given that our MD used to be Mitchell Group’s Marketing Manager in a previous life, we will always have a special relationship with this unique and friendly business. It’s their people who make the difference!"
         },
         {
             "name": "philip-paul",
             "url": "#client-philip-paul",
-            "logo": "/assets/s3/company-logos/philip-paul.png",
-            "screenshot": "/assets/s3/company-showcase/philip-paul.jpg",
+            "logo": "/assets/s3/logos/philip-paul.png",
+            "screenshot": "/assets/s3/showcase/philip-paul.jpg",
             "description": "Run by two of the nicest blokes we have ever met, Phil and Paul punch above their weight and strive for excellence in all they do. We are proud to work with them to help deliver their objectives."
         },
         {
             "name": "lindop-toyota",
             "url": "#client-lindop-toyota",
-            "logo": "/assets/s3/company-logos/lindop.png",
-            "screenshot": "/assets/s3/company-showcase/lindop.jpg",
+            "logo": "/assets/s3/logos/lindop.png",
+            "screenshot": "/assets/s3/showcase/lindop.jpg",
             "description": "Our first Nexus Point Apex website and still going strong. The team at Lindop have worked with us closely to develop the back office functionality."
         },
         {
             "name": "atalanta",
             "url": "#client-atalanta",
-            "logo": "/assets/s3/company-logos/atalanta.png",
-            "screenshot": "/assets/s3/company-showcase/atalanta.jpg",
+            "logo": "/assets/s3/logos/atalanta.png",
+            "screenshot": "/assets/s3/showcase/atalanta.jpg",
             "description": "A beautiful car deserves a beautiful website and beautiful point of sale. Nexus Point is working very closely with Martyn Corfield and his team to deliver excellence."
         },
         {
             "name": "fw",
             "url": "#client-fw",
-            "logo": "/assets/s3/company-logos/fleetwood.png",
-            "screenshot": "/assets/s3/company-showcase/fleetwood.jpg",
+            "logo": "/assets/s3/logos/fleetwood.png",
+            "screenshot": "/assets/s3/showcase/fleetwood.jpg",
             "description": "Fleetwood is a charming, historic seaside town and Fleetwood Car Centre is an important part of the local economy. Dave Evans thinks big and is keen to stay ahead of the tech curve, as one of our first clients, we are looking forward to launching their second Nexus Point Apex website early 2018."
         },
         {
             "name": "zuto",
             "url": "#client-zuto",
-            "logo": "/assets/s3/company-logos/zuto.png",
-            "screenshot": "/assets/s3/company-showcase/zuto.jpg",
+            "logo": "/assets/s3/logos/zuto.png",
+            "screenshot": "/assets/s3/showcase/zuto.jpg",
             "description": "Another bespoke and niche solution for Zuto, market leaders in the automotive finance arena. Ryan and his team are incredibly tech savvy and always looking to do cool things. We’re proud they chose us to help deliver some of this coolness!!!"
         }
     ]
